@@ -1,6 +1,6 @@
 {
   "name": "markserv-contrib-mod.http-404",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Serves a 404 page when no file is found",
   "repository": "git@github.com:f1lt3r/markserv-contrib-mod.http-404",
   "main": "lib/mod.http-404.js",
